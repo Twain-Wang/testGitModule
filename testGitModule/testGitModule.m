@@ -9,7 +9,7 @@
 #import "testGitModule.h"
 
 @implementation testGitModule
--(NSString *)setName
+-(NSString *)setNameAAA
 {
     return @"小飞象";
 }

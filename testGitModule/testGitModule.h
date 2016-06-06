@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface testGitModule : NSObject
--(NSString*)setName;
+-(NSString*)setNameAAA;
 @end
