@@ -11,6 +11,6 @@
 @implementation testGitModule
 -(NSString *)setNameAAA
 {
-    return @"小飞象";
+    return @"小飞象007";
 }
 @end
